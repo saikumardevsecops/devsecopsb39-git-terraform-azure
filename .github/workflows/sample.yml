@@ -1,4 +1,5 @@
-
+ defaults:
+  
 name: Workflow For Running Azure Terraform Code
 
 on:
